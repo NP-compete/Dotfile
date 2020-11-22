@@ -1,0 +1,5 @@
+deb http://debmirror.hbcse.tifr.res.in/debian/ buster-updates main contrib non-free
+deb-src http://debmirror.hbcse.tifr.res.in/debian/ buster-updates main contrib non-free
+
+deb http://debmirror.hbcse.tifr.res.in/debian/ buster main non-free contrib
+deb-src http://debmirror.hbcse.tifr.res.in/debian/ buster main non-free contrib
